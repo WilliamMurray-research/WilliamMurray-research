@@ -31,6 +31,7 @@ I publish the methods, the experiments, and the results — nothing more.
 ## Identity
 
 - **ORCID:** [https://orcid.org/  ](https://orcid.org/0009-0002-9558-6747)
+- **Substack:** https://williammurrayrisk.substack.com/
 - **LinkedIn:** [https://www.linkedin.com/in/william-murray-risk/](https://www.linkedin.com/in/william-murray-risk/)
 - **HuggingFace:** [https://huggingface.co/WilliamMurray-research](https://huggingface.co/WilliamMurray-research)
 
