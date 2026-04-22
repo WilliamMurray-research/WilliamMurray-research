@@ -11,10 +11,10 @@ I publish the methods, the experiments, and the results - nothing more.
 
 ## Current Work
 
-- **Tier‑1 Emergence** — a framework for studying emergent behaviour in structured graphs  
-- **Experiment 1** — fixed parameters, searching for stable motifs and metastability  
-- **Experiment 2** — parameter variation and phase structure mapping  
-- **Open papers** — reproducible methods, figures, and replication instructions
+- **Tier‑1 Emergence** - a framework for studying emergent behaviour in structured graphs  
+- **Experiment 1** - fixed parameters, searching for stable motifs and metastability  
+- **Experiment 2** - parameter variation and phase structure mapping  
+- **Open papers** - reproducible methods, figures, and replication instructions
 
 ---
 
