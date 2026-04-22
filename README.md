@@ -1,6 +1,6 @@
 # William Murray
 
-**see the universe in a grain of sand**
+**See the universe in a grain of sand**
 
 I build frameworks for understanding how structure gives rise to behaviour.  
 My research explores non‑backtracking dynamics on mesoscale networks and the
