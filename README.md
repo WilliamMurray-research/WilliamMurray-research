@@ -5,7 +5,7 @@
 I build frameworks for understanding how structure gives rise to behaviour.  
 My research explores non‑backtracking dynamics on mesoscale networks and the
 conditions under which Tier‑1 emergence appears.  
-I publish the methods, the experiments, and the results — nothing more.
+I publish the methods, the experiments, and the results - nothing more.
 
 ---
 
