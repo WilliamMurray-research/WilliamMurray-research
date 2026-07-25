@@ -1,5 +1,3 @@
-# Day 3 of ∞
-
 ##### New to coding. 
 ##### First line written: 22 July 2025
 ---
