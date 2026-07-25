@@ -4,13 +4,12 @@ New to coding. &nbsp;First line written: **22 July 2025**.
 
 15 months of thinking about AI/ML, architectures, and systems - before touching a keyboard to build.
 Learning by building small, structured prototypes across different domains.
-Contributions are off: this is a dedication to long‑arc mastery.
 
 &nbsp;
 
 | Ideas in pipeline | Structured prototypes | Research files |
 |:-:|:-:|:-:|
-| **150 – 200** | **10** | **8,500+** |
+| **150 – 200** | **9** | **8,500+** |
 
 ---
 
@@ -77,8 +76,8 @@ Entropy, mutual information, and tensor operations in high‑dimensional spaces.
 
 ## Papers Repository
 
-A dedicated repository for research in progress and long-arc conceptual development.
+A repository for original frameworks and principles - named, formalised, and examined across domains. The goal is to make implicit trade-offs explicit: to develop vocabulary for mechanisms that practitioners navigate by intuition but rarely articulate precisely.
 
-Covers: ideative papers · research papers · mechanism notes · DSL specifications · emergent‑structure analyses · theoretical drafts · structured argumentation.
+---
 
-Focus: hypotheses, academic writing, formalisation, mechanism articulation.
+*Contributions are off: this is a dedication to long‑arc mastery.*
