@@ -76,7 +76,9 @@ Entropy, mutual information, and tensor operations in high‑dimensional spaces.
 
 ## Papers Repository
 
-A repository for original frameworks and principles - named, formalised, and examined across domains. The goal is to make implicit trade-offs explicit: to develop vocabulary for mechanisms that practitioners navigate by intuition but rarely articulate precisely.
+A repository for original frameworks and principles - named, formalised, and examined across domains.
+
+I am drawn to moments where a field is navigating by the wrong conceptual frame: where practitioners have inherited a framing that is imprecise, inverted, or simply unnamed. The work here attempts to replace those frames with more precise ones - to make implicit trade-offs explicit, and to give vocabulary to mechanisms that exist in practice but resist articulation.
 
 ---
 
