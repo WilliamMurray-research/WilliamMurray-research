@@ -2,6 +2,8 @@
 ### First line written: 22 July 2025
 ---
 15 months of deep focus about AI/ML, software architectures and systems, before touching a keyboard to build.
+
+
 Learning by building small, structured prototypes across different domains.
 
 
