@@ -76,7 +76,7 @@ Entropy, mutual information, and tensor operations in high‑dimensional spaces.
 
 ## Papers Repository
 
-A repository for original frameworks, principles, ideas, hypotheses, and informal proofs.
+A repository for original ideas, frameworks, principles, hypotheses, and informal proofs.
 
 I am drawn to moments where a field is navigating by the wrong conceptual frame: where practitioners have inherited a framing that is imprecise, inverted, or simply unnamed. The work here attempts to replace those frames with more precise ones - to make implicit trade-offs explicit, and to give vocabulary to mechanisms that exist in practice but resist articulation.
 
