@@ -1,6 +1,6 @@
 # Day 3 of ∞
 
-###### New to coding. 
+##### New to coding. 
 ##### First line written: 22 July 2025
 
 15 months of thinking about AI/ML, architectures, and systems - before touching a keyboard to build.
