@@ -7,9 +7,9 @@ Learning by building small, structured prototypes across different domains.
 
 &nbsp;
 
-| Ideas in pipeline | Structured prototypes | Research files |
-|:-:|:-:|:-:|
-| **150 – 200** | **9** | **8,500+** |
+| Ideas in pipeline | Research files |
+|:-:|:-:|
+| **150 – 200** | **8,500+** |
 
 ---
 
