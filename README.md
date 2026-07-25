@@ -13,7 +13,7 @@ Learning by building small, structured prototypes across different domains.
 
 ---
 
-## Project Roadmap - 1 to 10
+## Project Roadmap - 1 to 9
 
 A structured sequence, each scoped to teach one conceptual domain at a time.
 Every project is a complete system - deterministic, minimal, and architecturally instructive.
