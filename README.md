@@ -1,5 +1,5 @@
 ### New to coding. 
-### First line written: 22 July 2025
+### First line written: 22 July 2026
 ---
 15 months of deep focus about AI/ML, software architectures and systems, before touching a keyboard to build.
 
