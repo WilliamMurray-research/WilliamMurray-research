@@ -30,15 +30,15 @@ A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, a
 
 ---
 
-**`02` - Local Git**
-A version‑controlled research system - a stripped-down local CLI with all extras removed.
-`Git workflows` `metadata design` `provenance tracking` `structured research`
+**`02` - Knowledge Layer — .md + PostgreSQL + Memgraph**
+A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
+`relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
 ---
 
-**`03` - Knowledge Layer — .md + PostgreSQL + Memgraph**
-A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
-`relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
+**`03` - Local Git**
+A version‑controlled research system - a stripped-down local CLI with all extras removed.
+`Git workflows` `metadata design` `provenance tracking` `structured research`
 
 ---
 
