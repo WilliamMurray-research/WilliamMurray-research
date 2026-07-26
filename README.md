@@ -36,7 +36,7 @@ A dual‑layer system indexing and relating the entire research corpus (~8,500 f
 
 ---
 
-**`03` - Local Git**
+**`03` - Local Git** (*Julia, Python, WolframScript* | *Rust*) 
 A version‑controlled research system - a stripped-down local CLI with all extras removed.
 `Git workflows` `metadata design` `provenance tracking` `structured research`
 
