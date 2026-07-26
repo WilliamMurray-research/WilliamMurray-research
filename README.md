@@ -30,7 +30,7 @@ A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, a
 
 ---
 
-**`02` - Knowledge Layer** (*.md, PostgreSQL, Memgraph*)
+**`02` - Knowledge Layer** (*PostgreSQL, Memgraph, .md*)
 A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
@@ -72,9 +72,9 @@ Extends Project 4 into grid topologies with state transitions, absorbing endpoin
 
 ---
 
-**`09` - Information Theory & Tensors**
-Entropy, mutual information, and tensor operations in high‑dimensional spaces.
-`information theory` `tensor algebra` `signal flow` `compression`
+**`09` — Information Representation via Tensors** (*Julia, Python, WolframScript*) 
+Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
+`information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
 
 ---
 
