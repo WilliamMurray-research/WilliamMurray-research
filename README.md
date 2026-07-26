@@ -72,7 +72,7 @@ Extends Project 4 into grid topologies with state transitions, absorbing endpoin
 
 ---
 
-**`09` — Information Representation via Tensors** (*Julia, Python, WolframScript*) 
+**`09` - Information Representation via Tensors** (*Julia, Python, WolframScript*) 
 Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
 `information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
 
