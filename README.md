@@ -49,7 +49,7 @@ Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.
 ---
 
 **`05` - Speculative Decoding for Accuracy** (*Gemma 3 270M, Gemma 3 1B*)
-esting the hypothesis that speculative decoding may be adopted to improve accuracy, using a two‑model pipeline in which a smaller draft model proposes tokens and a larger model performs probability‑based acceptance.
+Testing the hypothesis that speculative decoding may be adopted to improve accuracy, using a two‑model pipeline in which a smaller draft model proposes tokens and a larger model performs probability‑based acceptance.
 `ML inference` `probability-based acceptance` `multi-model pipelines` `reproducible research`
 
 ---
