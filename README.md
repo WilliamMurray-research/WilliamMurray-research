@@ -3,13 +3,17 @@
 ---
 15 months of deep focus about AI/ML, software architectures and systems, before touching a keyboard to build.
 
-
-Learning by building small, structured prototypes across different domains.
-
-
 | Ideas in pipeline | Research files |
 |:-:|:-:|
 | **150 – 200** | **8,500+** |
+
+---
+
+## Purpose
+
+Learning by building small, structured prototypes across different domains.
+
+I'm aiming to develop "correct" workflows and documentations, and get a "feel" for different paradigms and languages.  As always, I am working from first principles; developing my own processes, as opposed to following the herd (which tends to be quite fickle).  
 
 ---
 
