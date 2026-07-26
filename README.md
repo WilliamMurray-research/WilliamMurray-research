@@ -42,14 +42,14 @@ A version‑controlled research system - a stripped-down local CLI with all extr
 
 ---
 
-**`04` - Non‑Backtracking Hashimoto Simulation** *(Julia)*
+**`04` - Non‑Backtracking Hashimoto Simulation** (*Julia*)
 Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.
 `graph theory` `spectral methods` `numerical computing` `Julia`
 
 ---
 
-**`05` - Speculative Decoding for Accuracy**
-A two‑model inference pipeline using Gemma 3 (270M → 1B) for accuracy‑driven token verification.
+**`05` - Speculative Decoding for Accuracy** (*Gemma 3 270M, Gemma 3 1B*)
+esting the hypothesis that speculative decoding may be adopted to improve accuracy, using a two‑model pipeline in which a smaller draft model proposes tokens and a larger model performs probability‑based acceptance.
 `ML inference` `probability-based acceptance` `multi-model pipelines` `reproducible research`
 
 ---
@@ -66,7 +66,7 @@ A metamorphic Lisp system exploring AST rewriting, macro transformation, and met
 
 ---
 
-**`08` - Grid‑Based Hashimoto State Machine** *(Julia)*
+**`08` - Grid‑Based Hashimoto State Machine** (*Julia*)
 Extends Project 4 into grid topologies with state transitions, absorbing endpoints, and non-backtracking constraints.
 `dynamical systems` `state machines` `grid simulation` `numerical iteration`
 
