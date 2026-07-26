@@ -24,13 +24,13 @@ Every project is a complete system - deterministic, minimal, and architecturally
 
 &nbsp;
 
-**`01` - Digital Twin Wallpaper**
+**`01` - Digital Twin Wallpaper** (*Prolog, Python, JSON*)
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`
 
 ---
 
-**`02` - Knowledge Layer — .md + PostgreSQL + Memgraph**
+**`02` - Knowledge Layer** (*.md, PostgreSQL, Memgraph*)
 A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
@@ -54,13 +54,13 @@ A two‑model inference pipeline using Gemma 3 (270M → 1B) for accuracy‑driv
 
 ---
 
-**`06` - Prolog Metamorphism**
+**`06` - Prolog Metamorphism** (*SWI-Prolog*)
 A meta‑level logic system that rewrites its own rules, predicates, and evaluation strategy.
 `logic programming` `meta-interpreters` `rule rewriting` `symbolic metamorphism`
 
 ---
 
-**`07` - Lisp Metamorphism**
+**`07` - Lisp Metamorphism** (*Common-Lisp*)
 A metamorphic Lisp system exploring AST rewriting, macro transformation, and meta‑circular evaluation.
 `homoiconicity` `AST manipulation` `language design` `syntactic metamorphism`
 
