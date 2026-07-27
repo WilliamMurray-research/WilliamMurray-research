@@ -25,7 +25,7 @@ Every project is a complete system - minimal and architecturally instructive.
 &nbsp;
 
 **`1.0` – Conjecture Convergence Engine** (*SWI-Prolog, Bash, llama.cpp*)
-A deterministic, distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
+A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
 
 ---
