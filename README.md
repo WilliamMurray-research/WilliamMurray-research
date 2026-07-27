@@ -24,13 +24,13 @@ Every project is a complete system - deterministic, minimal, and architecturally
 
 &nbsp;
 
-**`1.0` – Conjecture Convergence Engine** (*Prolog, Bash, llama.cpp*)
+**`1.0` – Conjecture Convergence Engine** (*SWI-Prolog, Bash, llama.cpp*)
 A deterministic, distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
 
 ---
 
-**`2.0` - Digital Twin Wallpaper** (*Prolog, Python, JSON*)
+**`2.0` - Digital Twin Wallpaper** (*SWI-Prolog, Python, JSON*)
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`
 
@@ -72,7 +72,7 @@ Extends Project 4 into grid topologies with state transitions, absorbing endpoin
 
 ---
 
-**`9.0` - Information Representation via Tensors** (Core math: *Julia, WolframScript* | Semantic layer: *Prolog, Lisp* | Systems layer: *Rust, Python*) 
+**`9.0` - Information Representation via Tensors** (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems layer: *Rust, Python*) 
 Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
 `information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
 
