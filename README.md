@@ -20,7 +20,7 @@ I'm aiming to develop "correct" workflows and documentations, and get a "feel" f
 ## Project Roadmap - 1 to 10
 
 A structured sequence, each scoped to teach one conceptual domain at a time.
-Every project is a complete system - deterministic, minimal, and architecturally instructive.
+Every project is a complete system - minimal and architecturally instructive.
 
 &nbsp;
 
