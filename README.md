@@ -92,9 +92,9 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 
 ---
 
-## Tier 2 Conjecture corpus
+## Unified Operator Architecture corpus
 
-I’m developing a long‑arc research programme called the Tier 2 conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with formal proofs now released across multiple domains.
+I’m developing a long‑arc research programme called the Unified Operator Architecture conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with formal proofs now released across multiple domains.
 
 The programme introduces a multi‑tier model of emergence, showing how global invariants arise, why they resist reduction to local dynamics, and how these structures can be formalised using operator algebras, ultrametrics, fixed‑point theory, symplectic reduction, categorical methods, and geometric projections.
 
