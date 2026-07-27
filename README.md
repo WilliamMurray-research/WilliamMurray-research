@@ -94,7 +94,20 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 
 ## Tier 2 Conjecture corpus
 
+I’m developing a long‑arc research programme called the Tier 2 conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with formal proofs now released across multiple domains.
 
+The programme introduces a multi‑tier model of emergence, showing how global invariants arise, why they resist reduction to local dynamics, and how these structures can be formalised using operator algebras, ultrametrics, fixed‑point theory, symplectic reduction, categorical methods, and geometric projections.
+
+Recent results include:
+
+- a transfinite hierarchy for symbolic dynamics with monotonic deviation metrics and EP‑pair coherence
+- a universal normal form theorem for tiered dynamical systems
+- a two‑tier emergence framework for quantum mechanics and gravity, including a structural non‑reducibility theorem
+- a conditional faster‑than‑light transit result within pre‑geometric Tier‑1 dynamics
+- a Tier‑3 operator framework for multiverse‑level coherence
+- a geometric and categorical architecture of consciousness
+- operator‑algebraic models of biological murmurations and low‑order collectives
+- a constraint‑dynamics paradigm for computation
 
 ---
 
