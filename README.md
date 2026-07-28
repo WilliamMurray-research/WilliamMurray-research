@@ -106,6 +106,12 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 
 ---
 
+## Universal Project Template Framework
+
+This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
+
+---
+
 ## Unified Operator Architecture corpus
 
 I’m developing a long‑arc research programme called the Unified Operator Architecture conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with formal proofs now released across multiple domains.
