@@ -32,57 +32,57 @@ A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, a
 
 ---
 
-**`2.0` – AusRewrite‑T5** (*encoder–decoder transformer, rule tables, constrained decoding*)  
-A small, rule‑constrained rewriting model that converts any English into Australian Government Style Manual + AGLC‑compliant Australian English with deterministic, semantically faithful transformations.  
-`rewriting transformer` `semantic fidelity` `rule‑constrained decoding` `Australian English normalisation`
-
----
-
-**`3.0` – Conjecture Convergence Engine** (*SWI-Prolog, Bash, llama.cpp*)
+**`2.0` – Conjecture Convergence Engine** (*SWI-Prolog, Bash, llama.cpp*)
 A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
 
 ---
 
-**`4.0` - Knowledge Layer** (*PostgreSQL, Memgraph, .md*)
+**`3.0` - Knowledge Layer** (*PostgreSQL, Memgraph, .md*)
 A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
 ---
 
-**`5.0` - Local Git** (*Python, Rust*) 
+**`4.0` - Local Git** (*Python, Rust*) 
 A version‑controlled research system - a stripped-down local CLI with all extras removed.
 `Git workflows` `metadata design` `provenance tracking` `structured research`
 
 ---
 
-**`6.0` - Non‑Backtracking Hashimoto Simulation** (*Julia*)
+**`5.0` - Non‑Backtracking Hashimoto Simulation** (*Julia*)
 Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.
 `graph theory` `spectral methods` `numerical computing` `Julia`
 
 ---
 
-**`7.0` - Prolog Metamorphism** (*SWI-Prolog*)
+**`6.0` - Prolog Metamorphism** (*SWI-Prolog*)
 A meta‑level logic system that rewrites its own rules, predicates, and evaluation strategy.
 `logic programming` `meta-interpreters` `rule rewriting` `symbolic metamorphism`
 
 ---
 
-**`8.0` - Lisp Metamorphism** (*Common-Lisp*)
+**`7.0` - Lisp Metamorphism** (*Common-Lisp*)
 A metamorphic Lisp system exploring AST rewriting, macro transformation, and meta‑circular evaluation.
 `homoiconicity` `AST manipulation` `language design` `syntactic metamorphism`
 
 ---
 
-**`9.0` - Grid‑Based Hashimoto State Machine** (*Julia*)
+**`8.0` - Grid‑Based Hashimoto State Machine** (*Julia*)
 Extends Project 4 into grid topologies with state transitions, absorbing endpoints, and non-backtracking constraints.
 `dynamical systems` `state machines` `grid simulation` `numerical iteration`
 
 ---
 
-**`10.0` - Information Representation via Tensors** (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems layer: *Rust, Python*) 
+**`9.0` - Information Representation via Tensors** (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems layer: *Rust, Python*) 
 Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
 `information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
+
+---
+
+**`10.0` – AusRewrite‑T5** (*encoder–decoder transformer, rule tables, constrained decoding*)  
+A small, rule‑constrained rewriting model that converts any English into Australian Government Style Manual + AGLC‑compliant Australian English with deterministic, semantically faithful transformations.  
+`rewriting transformer` `semantic fidelity` `rule‑constrained decoding` `Australian English normalisation`
 
 ---
 
