@@ -118,7 +118,7 @@ This repository defines the canonical template framework used across all project
 
 ---
 
-## Unified Operator Architecture corpus
+## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
 I’m developing a long‑arc research programme called the Unified Operator Architecture conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with preliminary conjectures now released across multiple domains.
 
