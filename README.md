@@ -92,7 +92,7 @@ Testing the hypothesis that speculative decoding may be adopted to improve accur
 
 ---
 
-**12.0 – Scaling‑Precision Ideation Lab** (*llama.cpp, SWI‑Prolog, Python, quantization harness*)  
+**`12.0` – Scaling‑Precision Ideation Lab** (*llama.cpp, SWI‑Prolog, Python, quantization harness*)  
 Testing the hypothesis that representational scale and numerical precision interact in systematic, measurable ways during mathematical conjecture‑generation. Implements paired Q2–Q4 large‑model ideation and Q16 small‑model verification, with blind scoring, falsifiability metrics, and domain‑specific pipelines for integer sequences and functional equations.  
 `quantization ablation` `mathematical ideation` `conjecture scoring` `scaling–precision crossover`
 
