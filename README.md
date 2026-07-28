@@ -104,7 +104,7 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 
 ---
 
-## Papers Repository
+## [Foundations Repository](https://github.com/WilliamMurray-research/foundations)
 
 A repository for original ideas, frameworks, principles, hypotheses, and informal proofs.
 
@@ -112,7 +112,7 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 
 ---
 
-## Universal Project Template Framework
+## [Universal Project Template Framework](https://github.com/WilliamMurray-research/templates)
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
 
