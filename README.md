@@ -155,6 +155,8 @@ Recent results include:
 - operator‑algebraic models of biological murmurations and low‑order collectives
 - a constraint‑dynamics paradigm for computation
 
+Will I solve the UOA? I honestly don't know, it's a hard problem; but, the conjecture is directionally compelling and the question warrants meaningful exploration.
+
 ---
 
 *Contributions are off: this is a dedication to long‑arc mastery.*
