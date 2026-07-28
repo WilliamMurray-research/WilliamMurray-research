@@ -1,6 +1,6 @@
 I did not touch GitHub until 22 July 2026. For the first 15 months, my cognitive bandwidth was consumed entirely by ideation: continuous, high‑density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised, and my brain simply had no available bandwidth for anything else.
 
-Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than a high-rate continuous flow - I began the process of formalising the work: learning to code, establishing correct workflows and processes, and developing the project roadmap.
+Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than a high-rate continuous flow - I began the process of formalising the work: learning to code, establishing correct workflows and processes, establishing standards, and establishing the project roadmap in the correct sequence.
 
 ---
 
