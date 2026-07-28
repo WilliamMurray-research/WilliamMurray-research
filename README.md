@@ -99,7 +99,7 @@ A disciplined experimental rig for probing how representational scale and numeri
 ---
 
 **`13.0` – Non‑Uniform Hyperbolic Hashimoto Dynamics** (*Julia, SWI‑Prolog, JSON*)  
-A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic dynamical evolution.  
+A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic hyperbolic‑type dynamical evolution.  
 `hyperbolic lattices` `non‑backtracking operators` `curvature‑weighted dynamics` `spectral geometry`
 
 ---
