@@ -129,7 +129,7 @@ Recent results include:
 - a transfinite hierarchy for symbolic dynamics with monotonic deviation metrics and EP‑pair coherence
 - a universal normal form theorem for tiered dynamical systems
 - a two‑tier emergence framework for quantum mechanics and gravity, including a structural non‑reducibility theorem
-- a conditional faster‑than‑light transit result within pre‑geometric Tier‑1 dynamics
+- a coherence-boundary transit result showing that metric constraints dissolve at the Tier-1/Tier-2 interface, permitting effective superluminal displacement in emergent coordinates
 - a Tier‑3 operator framework for multiverse‑level coherence
 - a geometric and categorical architecture of consciousness
 - operator‑algebraic models of biological murmurations and low‑order collectives
