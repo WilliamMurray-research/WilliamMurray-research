@@ -69,7 +69,7 @@ A metamorphic Lisp system exploring AST rewriting, macro transformation, and met
 ---
 
 **`8.0` - Grid‑Based Hashimoto State Machine** (*Julia*)
-Extends Project 4 into grid topologies with state transitions, absorbing endpoints, and non-backtracking constraints.
+Extends Project 5 into grid topologies with state transitions, absorbing endpoints, and non-backtracking constraints.
 `dynamical systems` `state machines` `grid simulation` `numerical iteration`
 
 ---
