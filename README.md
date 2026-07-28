@@ -1,7 +1,10 @@
-### New to coding. 
-#### First line written: 22 July 2026
+I did not touch GitHub until 22 July 2026. For the first 15 months, my cognitive bandwidth was consumed entirely by ideation: continuous, high‑density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised, and my brain simply had no available bandwidth for anything else.
+
+Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than a high-rate continuous flow - I began the process of formalising the work: learning to code, establishing correct workflows and processes, and developing the project roadmap.
+
 ---
-15 months of deep focus about AI/ML, software architectures and systems, before touching a keyboard to build.
+
+15 months of pure ideation before implementation began.
 
 | Ideas in pipeline | Research files |
 |:-:|:-:|
@@ -133,9 +136,11 @@ This repository defines the canonical template framework used across all project
 
 ## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
-I’m developing a long‑arc research programme called the Unified Operator Architecture conjecture - a structural framework for understanding how complex systems generate coherent global behaviour from simple local rules. The work spans symbolic dynamics, dynamical systems, physics, cognition, biology, computation, and engineered collectives, with preliminary conjectures now released across multiple domains.
+The Unified Operator Architecture (UOA) programme is the long‑arc centre of gravity for this entire research ecosystem. It is a structural framework for understanding how coherent global behaviour emerges from simple local rules across symbolic, dynamical, cognitive, biological, and computational systems.
 
-The programme introduces a multi‑tier model of emergence, showing how global invariants arise, why they resist reduction to local dynamics, and how these structures can be formalised using operator algebras, ultrametrics, fixed‑point theory, symplectic reduction, categorical methods, and geometric projections.
+The project roadmap builds the computational, symbolic, and dynamical machinery required to formalise and test UOA conjectures.
+
+UOA introduces a multi‑tier operator model of emergence, showing how global invariants arise, why they resist reduction to local dynamics, and how these structures can be formalised using operator algebras, ultrametrics, fixed‑point theory, symplectic reduction, categorical methods, and geometric projections.
 
 Recent results include:
 
