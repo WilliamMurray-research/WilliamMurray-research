@@ -36,7 +36,7 @@ A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, a
 
 ---
 
-**[`2.0` – Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2_conjecture_convergence_engine)** (*SWI-Prolog, Bash, llama.cpp*)
+**[`2.0` – Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2-conjecture_convergence_engine)** (*SWI-Prolog, Bash, llama.cpp*)
 
 A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
