@@ -136,6 +136,8 @@ This repository defines the canonical template framework used across all project
 
 ## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
+*Private until published on Zenodo*
+
 The Unified Operator Architecture (UOA) programme is the long‑arc centre of gravity for this entire research ecosystem. It is a structural framework for understanding how coherent global behaviour emerges from simple local rules across symbolic, dynamical, cognitive, biological, and computational systems.
 
 The project roadmap builds the computational, symbolic, and dynamical machinery required to formalise and test UOA conjectures.
