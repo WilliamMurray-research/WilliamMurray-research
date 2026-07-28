@@ -32,7 +32,8 @@ A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, a
 
 ---
 
-
+**`2.0` - AusRewrite-T5 (* *)**
+A small encoder–decoder transformer designed to convert any English into Australian Government Style Manual + AGLC‑compliant Australian English.
 
 ---
 
