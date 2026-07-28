@@ -26,7 +26,7 @@ Every project is a complete system - minimal and architecturally instructive.
 
 &nbsp;
 
-**`1.0` - Digital Twin Wallpaper** (*SWI-Prolog, Python, JSON*)
+**[`1.0` - Digital Twin Wallpaper](https://github.com/WilliamMurray-research/1-dynamic_sky_wallpaper)** (*SWI-Prolog, Python, JSON*)
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`
 
