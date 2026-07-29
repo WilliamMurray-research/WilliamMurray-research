@@ -128,7 +128,7 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 
 ---
 
-## [Universal Project Template Framework](https://github.com/WilliamMurray-research/templates)
+## [Project Template Framework](https://github.com/WilliamMurray-research/templates)
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
 
