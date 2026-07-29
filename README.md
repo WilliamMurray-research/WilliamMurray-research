@@ -18,8 +18,6 @@ Learning by building small, structured prototypes across different domains.
 
 I'm aiming to develop "correct" workflows and documentations, and get a "feel" for different paradigms and languages.  As always, I am working from first principles; developing my own processes, as opposed to following the herd (which tends to be quite fickle).  
 
-#### All projects are conducted as though they are a professional R&D engagement.
-
 ---
 
 ## Project Roadmap 
