@@ -31,7 +31,7 @@ Every project is a complete system - minimal and architecturally instructive.
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts. The framework provides an ISO‑aligned standardisation baseline, ensuring uniformity, repeatability, and auditability across all projects. By enforcing a consistent structure and governance model, it reduces variability, reduces cognitive load, improves maintainability, increases operational efficiency, and enables tooling interoperability in accordance with established principles of technical standardisation.
 
---
+---
 
 **[`1.0` - Digital Twin Wallpaper](https://github.com/WilliamMurray-research/1-dynamic_sky_wallpaper)** (*SWI-Prolog, Python, JSON*)
 
