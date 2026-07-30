@@ -89,7 +89,7 @@ Extends Project 5 into grid topologies with state transitions, absorbing endpoin
 
 ---
 
-**[`9.0` - Information Representation via Tensors](https://github.com/WilliamMurray-research/9-information_tensors)** (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems layer: *Rust, Python*) 
+**[`9.0` - Information Representation via Tensors](https://github.com/WilliamMurray-research/9-information_tensors)** (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems & Interop layer: *Rust, Python, Python, Apache Arrow/C-ABI*) 
 
 Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
 `information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
