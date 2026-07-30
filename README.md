@@ -27,6 +27,10 @@ Every project is a complete system - minimal and architecturally instructive.
 
 &nbsp;
 
+**[`0.0` - Project Template Framework](https://github.com/WilliamMurray-research/templates)** (*C++20, Prolog, YAML*)
+
+This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
+
 **[`1.0` - Digital Twin Wallpaper](https://github.com/WilliamMurray-research/1-dynamic_sky_wallpaper)** (*SWI-Prolog, Python, JSON*)
 
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.
@@ -123,13 +127,6 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 A repository for original ideas, frameworks, principles, hypotheses, and informal proofs.
 
 I am drawn to moments where a field is navigating by the wrong conceptual frame: where practitioners have inherited a framing that is imprecise, inverted, or simply unnamed. The work here attempts to replace those frames with more precise ones - to make implicit trade-offs explicit, and to give vocabulary to mechanisms that exist in practice but resist articulation.
-
----
-
-## [Project Template Framework](https://github.com/WilliamMurray-research/templates) 
-(*C++20, Prolog, YAML*)
-
-This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
 
 ---
 
