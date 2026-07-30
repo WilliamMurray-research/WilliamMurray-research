@@ -127,7 +127,7 @@ I am drawn to moments where a field is navigating by the wrong conceptual frame:
 ---
 
 ## [Project Template Framework](https://github.com/WilliamMurray-research/templates) 
-(*C++, Prolog, YAML*)
+(*C++20, Prolog, YAML*)
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
 
