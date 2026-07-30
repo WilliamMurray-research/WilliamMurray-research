@@ -27,7 +27,7 @@ Every project is a complete system - minimal and architecturally instructive.
 
 &nbsp;
 
-**[`0.0` - Project Template Framework](https://github.com/WilliamMurray-research/templates)** (*C++20, Prolog, YAML*)
+**[`0.0` - Project Template Framework](https://github.com/WilliamMurray-research/templates)** (*C++20, SWI-Prolog, YAML*)
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts.
 
