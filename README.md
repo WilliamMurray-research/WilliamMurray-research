@@ -124,7 +124,7 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 
 ---
 
-## [Unified Asset Registry](https://github.com/WilliamMurray-research/foundations)
+## [Unified Asset Registry](https://github.com/WilliamMurray-research/unified_asset_registry)
 
 The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.
 
