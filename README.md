@@ -68,7 +68,7 @@ Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.
 
 ---
 
-**[`6.0` - Prolog Metamorphism](https://github.com/WilliamMurray-research/6-prolog_matamorphism)** (*SWI-Prolog*)
+**[`6.0` - Prolog Metamorphism](https://github.com/WilliamMurray-research/6-prolog_metamorphism)** (*SWI-Prolog*)
 
 A meta‑level logic system that rewrites its own rules, predicates, and evaluation strategy.
 `logic programming` `meta-interpreters` `rule rewriting` `symbolic metamorphism`
