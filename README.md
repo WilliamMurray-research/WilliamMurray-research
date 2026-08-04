@@ -101,6 +101,8 @@ Studying how information can be represented directly as tensors, and how relatio
 A small, rule‑constrained rewriting model that converts any English into Australian Government Style Manual + AGLC‑compliant Australian English with deterministic, semantically faithful transformations.  
 `rewriting transformer` `semantic fidelity` `rule‑constrained decoding` `Australian English normalisation`
 
+**10.1 - Fine tune coder to Mojo**
+
 ---
 
 **[`11.0` - Speculative Decoding for Accuracy](https://github.com/WilliamMurray-research/11-speculative_accuracy)** (*Gemma 3 270M, Gemma 3 1B*) 
