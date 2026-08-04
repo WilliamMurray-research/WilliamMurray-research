@@ -134,26 +134,54 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
-*Private until published on Zenodo*
 
-The Unified Operator Architecture (UOA) programme is the long‑arc centre of gravity for this entire research ecosystem. It is a structural framework for understanding how coherent global behaviour emerges from simple local rules across symbolic, dynamical, cognitive, biological, and computational systems.
+# Unified Operator Architecture (UOA) — Program Overview & Domain Index
 
-The project roadmap builds the computational, symbolic, and dynamical machinery required to formalise and test UOA conjectures.
+> **CLASSIFICATION & ACCESSIBILITY NOTICE**
+> 
+> **Access Level:** Restricted / Private Repository  
+> **Notice:** The full Unified Operator Architecture corpus, mathematical formulations, and execution models are classified as proprietary R&D due to inherent dual-use and operational risk profiles across autonomous systems, distributed dynamics, and high-assurance physics.
+>
+> This repository serves as a **public registry and structural manifest** defining the theoretical scope, domain taxonomy, and high-level conjectures of the UOA research program for provenance, timestamping, and compliance purposes.
 
-UOA introduces a multi‑tier operator model of emergence, showing how global invariants arise, why they resist reduction to local dynamics, and how these structures can be formalised using operator algebras, ultrametrics, fixed‑point theory, symplectic reduction, categorical methods, and geometric projections.
+---
 
-Recent results include:
+## Programmatic Executive Summary
 
-- a transfinite hierarchy for symbolic dynamics with monotonic deviation metrics and EP‑pair coherence
-- a universal normal form theorem for tiered dynamical systems
-- a two‑tier emergence framework for quantum mechanics and gravity, including a structural non‑reducibility theorem
-- a coherence-boundary transit result showing that metric constraints dissolve at the Tier-1/Tier-2 interface, permitting effective superluminal displacement in emergent coordinates
-- a Tier‑3 operator framework for multiverse‑level coherence
-- a geometric and categorical architecture of consciousness
-- operator‑algebraic models of biological murmurations and low‑order collectives
-- a constraint‑dynamics paradigm for computation
+The **Unified Operator Architecture (UOA)** is a long-arc systems architecture framework designed to formalize **multi-tier emergence**—how macro-level global invariants arise deterministically from micro-level local operator rules without reductionist decay.
 
-Will I solve the UOA? I honestly don't know, it's a hard problem; but, the conjecture is directionally compelling and the question warrants meaningful exploration.
+Rather than relying on empirical heuristics or unconstrained neural approximations, UOA establishes an operator-algebraic foundation that maps state transitions across symbolic, dynamical, physical, biological, and engineered computational systems.
+
+---
+
+## High-Level Domain Taxonomy & Scope
+
+
+[ UOA Core Operator Algebra ] | +------------------+-------------------+-------------------+------------------+ | | | | | [ 1. Symbolic ] [ 2. Dynamical ] [ 3. Physical ] [ 5. Biological ] [ 7. Engineered ] Transfinite Universal Pre-Geometric Murmurations & Autonomous Hierarchies & Normal Forms & & Multi-Tier Low-Order Swarming & Metamorphism Manifolds Dynamics Collectives Control Systems
+
+### Domain Summary
+
+* **00 — Overview & Architecture:** Canonical taxonomy, structural invariants, and inter-domain mapping matrices.
+* **01 — Symbolic Dynamics:** Transfinite hierarchies for symbolic systems, semantic domain bounds, and monotonic deviation metrics.
+* **02 — Dynamical Systems:** Universal normal form theorems for multi-tiered systems and emergent manifold topology.
+* **03 — High-Assurance Physics:** Operator-algebraic models of multi-tier emergence, pre-geometric coordinate transit, and boundary constraints.
+* **04 — Epistemic & Cognitive Architecture:** Operator models of integrated awareness, cognitive minimalism, and state containment.
+* **05 — Biological Collectives:** Topological and spectral formulations of low-order biological dynamics and phase-synchronized murmurations.
+* **06 — Computational Dynamics:** Constraint-driven execution models and non-backtracking state transitions.
+* **07 — Engineered & Autonomous Systems:** Dual-use control architectures for high-density, autonomous multi-agent systems and decentralized collectives.
+* **08 — Experimental R&D:** Non-uniform hyperbolic lattice dynamics, biological validation models, and boundary testing.
+
+---
+
+## Provenance & Compliance Governance
+
+1. **Dual-Use Containment:** Implementation code, numerical simulation parameters, and operational control scripts (`07_engineering/`, `08_experimental/`) are air-gapped and excluded from public distribution under strict operational risk management protocols.
+2. **Prior Art & Intellectual Provenance:** Architectural specifications, preprints, and non-sensitive theoretical foundations are periodically archived to Zenodo (e.g., DOI-anchored preprints) to establish immutable priority of discovery.
+3. **Inquiries & Institutional Contact:** Requests regarding formal verification, collaborative research, or institutional access for qualified entities must be directed through formal channels.
+
+---
+
+Will I solve the UOA? I honestly don't know, it's a hard problem set; but, the conjecture is directionally compelling and the question warrants meaningful exploration.
 
 ---
 
