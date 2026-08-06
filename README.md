@@ -163,4 +163,4 @@ Institutional inquiries may be directed through formal channels.
 
 ---
 
-*Contributions are off.*
+*Contributions are off: this is a dedication to long-arc mastery.*
