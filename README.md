@@ -143,7 +143,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-## [Meta](https://github.com/WilliamMurray-reserch/meta)
+## [Meta](https://github.com/WilliamMurray-research/meta)
 
 Analyses of my own processes and architectures.
 
