@@ -149,6 +149,12 @@ Analyses of my own processes and architectures.
 
 ---
 
+## [Foundations](https://github.com/WilliamMurray-research/foundations)
+
+Mathematical dependencies
+
+---
+
 ## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
 **Access Level: Restricted**
