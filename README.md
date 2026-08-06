@@ -49,7 +49,7 @@ A distributed plausibility‑anchored refinement system for stabilising conjectu
 
 **[`3.0` - Knowledge Layer](https://github.com/WilliamMurray-research/3-knowledge_layer)** (*Bash + curl, PostgreSQL ≥13, Memgraph 4.x, llama.cpp (local host), .md*)
 
-A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
+A dual‑layer system indexing and relating the entire research corpus (~8,500 files). The Knowledge Layer provides the semantic substrate required for programme‑level governance: the mature instantiations of both the Project Template Framework (0.0) and the Unified Asset Registry depend on this project for structural invariants, provenance tracking, and cross‑domain coherence.
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
 ---
