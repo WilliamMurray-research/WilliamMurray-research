@@ -143,6 +143,12 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
+## [Meta](https://github.com/WilliamMurray-reserch/meta)
+
+Analyses of my own processes and architectures.
+
+---
+
 ## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
 
 **Access Level: Restricted**
