@@ -47,7 +47,7 @@ A distributed plausibility‑anchored refinement system for stabilising conjectu
 
 ---
 
-**[`3.0` - Knowledge Layer](https://github.com/WilliamMurray-research/3-knowledge_layer)** (*PostgreSQL, Memgraph, .md*)
+**[`3.0` - Knowledge Layer](https://github.com/WilliamMurray-research/3-knowledge_layer)** (*Bash + curl, PostgreSQL ≥13, Memgraph 4.x, llama.cpp (local host), .md*)
 
 A dual‑layer system indexing and relating the entire research corpus (~8,500 files).
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
