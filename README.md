@@ -73,14 +73,14 @@ A nonlinear extension of Project 5.0, introducing sigmoidal update rules and sta
 
 ---
 
-**[`6.0` - Prolog Metamorphism](https://github.com/WilliamMurray-research/6-prolog_metamorphism)** (*SWI-Prolog*)
+**[`6.0` - Prolog Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/6-prolog_metamorphism)** (*SWI-Prolog*)
 
 A meta‑level logic system that rewrites its own rules, predicates, and evaluation strategy.
 `logic programming` `meta-interpreters` `rule rewriting` `symbolic metamorphism`
 
 ---
 
-**[`7.0` - Lisp Metamorphism](https://github.com/WilliamMurray-research/7-lisp_metamorphism)** (*Common-Lisp*)
+**[`7.0` - Lisp Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/7-lisp_metamorphism)** (*Common-Lisp*)
 
 A metamorphic Lisp system exploring AST rewriting, macro transformation, and meta‑circular evaluation.
 `homoiconicity` `AST manipulation` `language design` `syntactic metamorphism`
