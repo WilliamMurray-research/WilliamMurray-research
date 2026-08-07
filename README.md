@@ -6,9 +6,9 @@ Once the ideation phase slowed into coherent groups of ideas - giving me room to
 
 15 months of pure ideation before implementation began.
 
-| Ideas in pipeline | Research files |
-|:-:|:-:|
-| **150 – 200** | **9,500+** |
+>| Ideas in pipeline | Research files |
+>|:-:|:-:|
+>| **150 – 200** | **9,500+** |
 
 ---
 
