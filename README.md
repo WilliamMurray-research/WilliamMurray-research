@@ -145,6 +145,13 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 
 ---
 
+**[`14.0` – Landscape Digital Twin](https://github.com/WilliamMurray-research/14-landscape_digital_twin)**  (*Julia, SWI-Prolog, Common Lisp, Python*)
+
+A symbolic-geometric digital twin framework modelling fragmented landscapes as a fiber bundle manifold stack, with a dynamic DSL for describing ecological entities, relations, and rewriting rules. Designed as the convergence point of the tensor algebra (9.0), Prolog metamorphism (6.0), and Lisp homoiconicity (7.0) workstreams.
+`fiber bundles` `manifold stack` `dynamic DSL` `ecological connectivity` `digital twin` `symbolic rewriting` `landscape restoration`
+
+---
+
 ## [Unified Asset Registry](https://github.com/WilliamMurray-research/unified_asset_registry)
 
 The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.
