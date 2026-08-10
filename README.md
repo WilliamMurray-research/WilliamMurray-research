@@ -130,15 +130,11 @@ Testing the hypothesis that speculative decoding may be adopted to improve accur
 Testing the hypothesis that large low‑Q models generate and shape conjectures more effectively than smaller high‑Q models, using paired Q2–Q4 ideation and Q16 verification pipelines with blind scoring, falsifiability metrics, and domain‑specific rigs for integer sequences and functional equations. 
 `quantization ablation` `mathematical ideation` `conjecture scoring` `scaling–precision crossover`
 
-**12.1 – Model Parameter Scale vs. Deterministic Sampling Stability
+**[`12.1` – Model Parameter Scale vs. Deterministic Sampling Stability](https://github.com/WilliamMurray-research/12.1-scale_accuracy)**  (*llama.cpp, SWI‑Prolog, Python, JSON*)
 
-**Context & Parent Domain:** Project 12.0 (*Scaling–Precision Ideation Lab*)
+A controlled ablation study examining how **model parameter scale** affects **token‑level determinism**, **logit entropy**, and **sequence stability** under fixed decoding conditions. Using a unified `llama.cpp` quantization harness and the probability‑based verification pipeline from Project 11.0, this module compares models from **270M → 70B** to determine whether smaller LLMs appear “more deterministic” due to genuinely narrower latent manifolds or simply because reduced capacity induces **entropy collapse** in the output distribution.
 
-**Tools & Harness:** `llama.cpp`, SWI-Prolog, Python, JSON
-
-**Focus:** Empirical evaluation of output entropy, variance, and token-level stability across model parameter sizes under identical decoding configurations.
-
-
+`entropy analysis` `token‑variance measurement` `greedy‑alignment drift` `quantized sampling stability`
 
 ---
 
