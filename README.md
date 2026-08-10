@@ -130,6 +130,16 @@ Testing the hypothesis that speculative decoding may be adopted to improve accur
 Testing the hypothesis that large low‑Q models generate and shape conjectures more effectively than smaller high‑Q models, using paired Q2–Q4 ideation and Q16 verification pipelines with blind scoring, falsifiability metrics, and domain‑specific rigs for integer sequences and functional equations. 
 `quantization ablation` `mathematical ideation` `conjecture scoring` `scaling–precision crossover`
 
+**12.1 – Model Parameter Scale vs. Deterministic Sampling Stability
+
+**Context & Parent Domain:** Project 12.0 (*Scaling–Precision Ideation Lab*)
+
+**Tools & Harness:** `llama.cpp`, SWI-Prolog, Python, JSON
+
+**Focus:** Empirical evaluation of output entropy, variance, and token-level stability across model parameter sizes under identical decoding configurations.
+
+
+
 ---
 
 **[`13.0` – Non‑Uniform Hyperbolic Hashimoto Dynamics](https://github.com/WilliamMurray-research/13-hyperbolic_hashimoto)** (*Julia, SWI‑Prolog, JSON*)  
