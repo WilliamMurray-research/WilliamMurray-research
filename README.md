@@ -57,6 +57,9 @@ A distributed plausibility‑anchored refinement system for stabilising conjectu
 A dual‑layer system indexing and relating the entire research corpus (~9,500 files). The Knowledge Layer provides the semantic substrate required for programme‑level governance: the mature instantiations of both the Project Template Framework (0.0) and the Unified Asset Registry depend on this project for structural invariants, provenance tracking, and cross‑domain coherence.  
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
+
+**[`3.1` - Knowledge Layer Sandbox](https://github.com/WilliamMurray-research/3.1-knowledge_layer_sandbox)**
+
 ---
 
 **[`4.0` - Local Git](https://github.com/WilliamMurray-research/4-local_git)** (*Python, Rust*)
