@@ -110,7 +110,7 @@ Studying how information can be represented directly as tensors, and how relatio
 A small, rule‑constrained rewriting model that converts any English into Australian Government Style Manual + AGLC‑compliant Australian English with deterministic, semantically faithful transformations.  
 `rewriting transformer` `semantic fidelity` `rule‑constrained decoding` `Australian English normalisation`
 
-**10.1 - Mojo Operator Alignment & Kernel Synthesis** (*Gemma-Coder, Modular Mojo Toolchain, MLIR Dialect Verification, Synthetic Kernel Curriculum*)
+**[`10.1` - Mojo Operator Alignment & Kernel Synthesis](https://github.com/WilliamMurray-research/mojo)** (*Gemma-Coder, Modular Mojo Toolchain, MLIR Dialect Verification, Synthetic Kernel Curriculum*)
 
 A governed, operator-tier fine-tuning pipeline aligning a coder model to Mojo’s syntax, memory ownership semantics, and MLIR-lowerable GPU/SIMD kernel patterns. Addresses high-level data sparsity via a synthetically mutated kernel curriculum grounded in hand-optimized primitives. Evaluates code generation across a strict three-stage deterministic harness: AST parsing, MLIR pass verification (`--emit mlir`), and hardware execution benchmarks against native C/CUDA baselines.
 
