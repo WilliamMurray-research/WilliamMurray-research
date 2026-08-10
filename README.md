@@ -70,7 +70,7 @@ A version‑controlled research system - a stripped-down local CLI with all extr
 Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.
 `graph theory` `spectral methods` `numerical computing` `Julia`
 
-**5.1 – Nonlinear Sigmoidal Hashimoto Dynamics** (*Julia*)
+**[`5.1` – Nonlinear Sigmoidal Hashimoto Dynamics](https://github.com/WilliamMurray-research/5.1-sigmoidal_hashimoto)** (*Julia*)
 
 A nonlinear extension of Project 5.0, introducing sigmoidal update rules and stability analysis into the n=6 Hashimoto operator. This project explores how non‑backtracking walks behave under nonlinear propagation constraints, deriving fixed points, limit cycles, and Jacobian stability conditions. It serves as the nonlinear bridge between the linear spectral foundation of 5.0 and the structured dynamical systems of 8.0, preceding the curvature‑weighted generalisation in 13.0.
 `nonlinear operators` `sigmoid dynamics` `Jacobian stability` `fixed points` `limit cycles` `non‑backtracking walks`
