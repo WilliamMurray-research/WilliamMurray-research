@@ -166,7 +166,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ## [Foundations](https://github.com/WilliamMurray-research/foundations)
 
-This collection assembles the mathematical curriculum required to formally prove the Unified Operator Architecture — spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory — and pairs it with the doctrinal and philosophical framework that underwrites its systems‑architecture principles. This repo establishes the structural invariants and theoretical scaffolding necessary to preserve long‑arc conceptual integrity across all downstream computational prototypes.  
+Foundations consolidates the mathematical curriculum required to formally prove the Unified Operator Architecture — spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory — and integrates it with the doctrinal and philosophical papers that define the programme’s systems‑architecture worldview. Together, these materials establish the structural invariants, conceptual commitments, and theoretical scaffolding that preserve long‑arc coherence across all downstream computational prototypes and research systems.  
 `Mathematics` `TheoreticalComputerScience` `SystemsArchitecture` `FormalMethods` `Cybernetics` `DynamicalSystems`
 
 ---
