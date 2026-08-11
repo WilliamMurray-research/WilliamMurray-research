@@ -166,7 +166,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ## [Foundations](https://github.com/WilliamMurray-research/foundations)
 
-This collection integrates the mathematical pillars of the Unified Operator Architecture (UOA) (spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory) with a first-principles systems architecture doctrine. By pairing formal proofs and Lean 4 verification with cybernetic governance, constraint-driven runtime policies, and explicit provenance tracking, `foundations` provides the immutable structural invariants and theoretical scaffolding necessary to maintain long-arc conceptual integrity across all downstream computational prototypes.  
+This collection assembles the mathematical curriculum required to formally prove the Unified Operator Architecture — spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory — and pairs it with the doctrinal and philosophical framework that underwrites its systems‑architecture principles. This repo establishes the structural invariants and theoretical scaffolding necessary to preserve long‑arc conceptual integrity across all downstream computational prototypes.  
 `Mathematics` `TheoreticalComputerScience` `SystemsArchitecture` `FormalMethods` `Cybernetics` `DynamicalSystems`
 
 ---
