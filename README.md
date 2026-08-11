@@ -166,7 +166,8 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ## [Foundations](https://github.com/WilliamMurray-research/foundations)
 
-Mathematical dependencies
+The `foundations` repository serves as the core theoretical and mathematical bedrock underpinning the entire 15-month ideation archive and subsequent engineering roadmap (Projects 0.0 through 14.0). Born out of a deliberate transition from high-density conceptual generation to rigorous formalization, this collection integrates the mathematical pillars of the Unified Operator Architecture (UOA)—spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory—with a first-principles systems architecture doctrine. By pairing formal proofs and Lean 4 verification with cybernetic governance, constraint-driven runtime policies, and explicit provenance tracking, `foundations` provides the immutable structural invariants and theoretical scaffolding necessary to maintain long-arc conceptual integrity across all downstream computational prototypes.  
+`#Mathematics` `#TheoreticalComputerScience` `#SystemsArchitecture` `#FormalMethods` `#Cybernetics` `#DynamicalSystems`
 
 ---
 
