@@ -164,12 +164,6 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-## [Meta](https://github.com/WilliamMurray-research/meta)
-
-Analyses of my own processes and architectures.
-
----
-
 ## [Foundations](https://github.com/WilliamMurray-research/foundations)
 
 Mathematical dependencies
