@@ -179,8 +179,6 @@ The UOA is attempting a unified formal language for describing how coherent glob
 
 The conjecture is directionally compelling. The question warrants meaningful exploration.
 
-Institutional inquiries may be directed through formal channels.
-
 ---
 
 **Contributions are off**
