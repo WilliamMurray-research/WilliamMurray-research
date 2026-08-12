@@ -171,9 +171,7 @@ Foundations consolidates the mathematical curriculum required to formally prove 
 
 ---
 
-## [Unified Operator Architecture corpus](https://github.com/WilliamMurray-research/UOA_corpus)
-
-**Access Level: Restricted**
+## Unified Operator Architecture
 
 The UOA corpus, mathematical formulations, and execution models are maintained in a private repository. This document defines the program's theoretical scope, domain taxonomy, and structural manifest for provenance and compliance purposes.
 
