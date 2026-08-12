@@ -185,4 +185,4 @@ Institutional inquiries may be directed through formal channels.
 
 ---
 
-**Contributions are off: this is a dedication to long-arc mastery.**
+**Contributions are off**
