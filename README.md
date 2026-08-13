@@ -1,14 +1,8 @@
-Firstly, yes, I make extensive use of large language models; I am one person who is trying to do hard things, it really is the only way.  That said, I am fastidious about analysing my use of these systems, and spend considerable time considering how I can improve my systems and processes in ways that can improve the quality of my ideative output, and how to improve the subsequent creation of hypotheses, conjectures, lemma, and proofs. Just because we now have access to exquisitely powerful tools, that does not mean we can simply ignore scientific method.
+I make extensive use of large language models — I am one person attempting hard things, and it is the only viable path. That said, I am fastidious about my use of these systems, and spend considerable time refining how they can improve the quality of ideation, hypothesis formation, and the subsequent development of conjectures and proofs. Powerful tools do not dissolve the obligation to scientific method.
 
-My views in respect of systems architecture are deeply informed by my previous professional experience (risk management, factual investigations, and litigation support), and by my studies (particularly cognitive linguistics and neuroscience, focusing on language acquisition and comprehension with respect to the complexity of legal drafting). 
+I did not touch GitHub until 22 July 2026. The preceding fifteen months were consumed entirely by ideation — continuous, high-density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised. Once they began coalescing into coherent groups, I started formalising the work: learning to code, defining workflows, setting standards, and structuring the project roadmap in the correct sequence.
 
-I did not touch GitHub until 22 July 2026. For the first 15 months after realising the extent to which AI and ML would change everything, my cognitive bandwidth was consumed entirely by ideation: continuous, high‑density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised, and my brain simply had no available bandwidth for anything else.
-
-Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than drowning under a high-rate continuous flow (I still have days or weeks which are consumed thusly) - I began formalising the work: learning to code, defining workflows, setting standards, and structuring the project roadmap in the correct sequence (things like robust/strict standardisation are entirely in keeping with my nerotype, and my professional and academic backgrounds).
-
-With respect to my papers; again, I make extensive use of LLMs.  The point is to clearly define, refine, and articulate my ideas into a form that I can learn from and develop upon.  Every paper is read and iterated multiple times, and is checked for accuracy. They are not a flex or a status signal, but they are produced as genuine objects. 
-
-I'm not a coder/ developer/ engineer/ programmer; but I am a fast learner.
+My approach to systems architecture is informed by prior professional experience in risk management, factual investigations, and litigation support, and by academic work in cognitive linguistics and neuroscience — particularly language acquisition and comprehension in the context of legal drafting.
 
 ---
 
