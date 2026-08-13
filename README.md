@@ -6,7 +6,7 @@ Once the ideation phase slowed into coherent groups of ideas - giving me room to
 
 With respect to my papers; again, I make extensive use of LLMs.  The point is to clearly define, refine, and articulate my ideas into a form that I can learn from and develop upon.  Every paper is read and iterated multiple times, and is checked for accuracy. They are not a flex or a status signal, but they are produced as genuine objects. 
 
-I'm not a coder/ developer/ engineer/ programmer, but I'm a fast learner.
+I'm not a coder/ developer/ engineer/ programmer, but I am a fast learner.
 
 ---
 
