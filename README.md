@@ -4,10 +4,6 @@ I did not touch GitHub until 22 July 2026. The preceding fifteen months were con
 
 My approach to systems architecture is informed by prior professional experience in risk management, factual investigations, and litigation support, and by academic work in cognitive linguistics and neuroscience — particularly language acquisition and comprehension in the context of legal drafting.
 
----
-
-15 months of pure ideation before implementation began.
-
 <div align="center">
 
 | Ideas in pipeline | Research files |
@@ -16,13 +12,9 @@ My approach to systems architecture is informed by prior professional experience
 
 </div> 
 
----
-
 ## Purpose
 
-Learning by building small, structured prototypes across different domains.
-
-I'm aiming to develop "correct" workflows and documentations, and get a "feel" for different paradigms and languages.  As always, I am working from first principles; developing my own processes, as opposed to following the herd (which tends to be quite fickle).  
+The projects are not independent exercises. Each one is scoped to teach a single conceptual domain while contributing a structural component to a larger, interdependent programme. The sequence is deliberate; nothing is decorative.
 
 ---
 
