@@ -1,4 +1,4 @@
-Firstly, yes, I make extensive use of large language models; I am one person who is trying to do hard things, it really is the only way.  That said, I am fastideous about analysing my use of these system, and spend considerable time considering how I can improve my systems and processes.
+Firstly, yes, I make extensive use of large language models; I am one person who is trying to do hard things, it really is the only way.  That said, I am fastidious about analysing my use of these system, and spend considerable time considering how I can improve my systems and processes.
 
 I did not touch GitHub until 22 July 2026. For the first 15 months after realising the extent to which AI and ML would change everything, my cognitive bandwidth was consumed entirely by ideation: continuous, high‑density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised, and my brain simply had no available bandwidth for anything else.
 
