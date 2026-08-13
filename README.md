@@ -4,7 +4,7 @@ I did not touch GitHub until 22 July 2026. For the first 15 months after realisi
 
 Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than drowning under a high-rate continuous flow (I still have days or weeks which are consumed thusly) - I began formalising the work: learning to code, defining workflows, setting standards, and structuring the project roadmap in the correct sequence (things like robust/strict standardisation are entirely in keeping with my nerotype, and my professional and academic backgrounds).
 
-I'm not a coder/developer/engineer/programmer, but I'm a fast learner.
+I'm not a coder/ developer/ engineer/ programmer, but I'm a fast learner.
 
 ---
 
