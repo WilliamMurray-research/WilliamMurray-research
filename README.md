@@ -20,9 +20,6 @@ The projects are not independent exercises. Each one is scoped to teach a single
 
 ## Project Roadmap 
 
-A structured sequence, each scoped to teach one conceptual domain at a time.
-Every project is a complete system - minimal and architecturally instructive.
-
 &nbsp;
 
 **[`0.0` - Project Template Framework](https://github.com/WilliamMurray-research/templates)** (*C++20, SWI-Prolog, YAML*)
