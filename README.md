@@ -2,7 +2,9 @@ Firstly, yes, I make extensive use of large language models; I am one person who
 
 I did not touch GitHub until 22 July 2026. For the first 15 months after realising the extent to which AI and ML would change everything, my cognitive bandwidth was consumed entirely by ideation: continuous, high‑density conceptual generation across multiple domains. Implementation would have been premature; the ideas had not yet stabilised, and my brain simply had no available bandwidth for anything else.
 
-Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than drowning under a high-rate continuous flow (I still have days or weeks which are consumed thusly) - I began formalising the work: learning to code, defining workflows, setting standards, and structuring the project roadmap in the correct sequence.
+Once the ideation phase slowed into coherent groups of ideas - giving me room to breathe, rather than drowning under a high-rate continuous flow (I still have days or weeks which are consumed thusly) - I began formalising the work: learning to code, defining workflows, setting standards, and structuring the project roadmap in the correct sequence (things like robust/strict standardisation are entirely in keeping with my nerotype, and my professional and academic backgrounds).
+
+I'm not a coder/developer/engineer/programmer, but I'm a fast learner.
 
 ---
 
