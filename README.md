@@ -14,7 +14,7 @@ The conjecture is directionally compelling. The question warrants meaningful exp
 
 ## Custodial & Governance Principles
 
-This repository operates under a custodial [stewardship model](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/001.md)
+This repository operates under a custodial [stewardship model](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/001.md)   
 All work must strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).  
 External social metrics are decoupled from internal architectural governance.
 
