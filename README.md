@@ -1,4 +1,4 @@
-## Unified Operator Architecture
+# Unified Operator Architecture
 
 The UOA corpus, mathematical formulations, and execution models are maintained in a private repository. This document defines the program's theoretical scope, domain taxonomy, and structural manifest for provenance and compliance purposes.
 
@@ -8,7 +8,11 @@ The conjecture is directionally compelling. The question warrants meaningful exp
 
 ---
 
-### Custodial & Governance Principles
+## [Table of Contents](https://github.com/WilliamMurray-research/2026-0004-D)
+
+---
+
+## Custodial & Governance Principles
 
 This repository operates under a custodial [stewardship model](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/systems/manifestos/custodial_stewardship.md).  
 All work must strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).  
