@@ -10,7 +10,7 @@ The conjecture is directionally compelling. The question warrants meaningful exp
 
 ## [Table of Contents](https://github.com/WilliamMurray-research/2026-0004-D)
 
----
+
 
 ## Custodial & Governance Principles
 
