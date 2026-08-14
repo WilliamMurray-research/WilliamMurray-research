@@ -8,7 +8,7 @@ My approach to systems architecture is informed by prior professional experience
 
 | Ideas in pipeline | Research files |
 | :-: | :-: |
-| **150 – 200** | **9,500+** |
+| **150 – 200** | ~ **9,500+** |
 
 </div> 
 
@@ -128,7 +128,7 @@ Testing the hypothesis that large low‑Q models generate and shape conjectures 
 
 **[`12.1` – Model Parameter Scale vs. Deterministic Sampling Stability](https://github.com/WilliamMurray-research/12.1-scale_accuracy)**  (*llama.cpp, SWI‑Prolog, Python, JSON*)
 
-A controlled ablation study examining how **model parameter scale** affects **token‑level determinism**, **logit entropy**, and **sequence stability** under fixed decoding conditions. Using a unified `llama.cpp` quantization harness and the probability‑based verification pipeline from Project 11.0, this module compares models from **270M → 70B** to determine whether smaller LLMs appear “more deterministic” due to genuinely narrower latent manifolds or simply because reduced capacity induces **entropy collapse** in the output distribution.  
+A controlled ablation study examining how model parameter scale affects token‑level determinism, logit entropy, and sequence stability under fixed decoding conditions. Using a unified `llama.cpp` quantization harness and the probability‑based verification pipeline from Project 11.0, this module compares models from 270M → 70B to determine whether smaller LLMs appear “more deterministic” due to genuinely narrower latent manifolds or simply because reduced capacity induces entropy collapse in the output distribution.  
 `entropy analysis` `token‑variance measurement` `greedy‑alignment drift` `quantized sampling stability`
 
 ---
