@@ -147,7 +147,7 @@ A symbolic-geometric digital twin framework modelling fragmented landscapes as a
 
 ---
 
-## [Unified Asset Registry](https://github.com/WilliamMurray-research/unified_asset_registry)
+## [Unified Asset Registry](https://github.com/WilliamMurray-research/2026-0002-D)
 
 The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.  
 This registry serves as the operational backbone for the broader programme: a unified source of truth that enforces structural invariants, preserves provenance, and maintains coherence across all projects and domains. It is designed for due‑diligence clarity, long‑arc stability, and reproducible governance, ensuring that every artefact is catalogued, versioned, and integrated within a consistent architectural framework.  
@@ -155,7 +155,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-## [Foundations](https://github.com/WilliamMurray-research/foundations)
+## [Foundations](https://github.com/WilliamMurray-research/2026-0003-D)
 
 Foundations consolidates the mathematical curriculum required to formally prove the Unified Operator Architecture — spanning dynamical systems, symplectic geometry, symbolic dynamics, and domain theory — and integrates it with the doctrinal and philosophical papers that define the programme’s systems‑architecture worldview. Together, these materials establish the structural invariants, conceptual commitments, and theoretical scaffolding that preserve long‑arc coherence across all downstream computational prototypes and research systems.  
 `Mathematics` `TheoreticalComputerScience` `SystemsArchitecture` `FormalMethods` `Cybernetics` `DynamicalSystems`
