@@ -22,6 +22,10 @@ The following documents are significant and important with respect to foundation
 
 ---
 
+<div align="center">
+
 **Contributions turned off**
+
+</div>
 
 ---
