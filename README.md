@@ -11,7 +11,8 @@ The conjecture is directionally compelling. The question warrants meaningful exp
 ## Custodial & Governance Principles
 
 - This repository operates under a custodial [stewardship model](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/001.md)   
-- All work _**must**_ strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).  
+- All work _**must**_ strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).
+- The ecosystem is strictly bounded by the defined [ecosystem doctrine](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/037.md).   
 - External social metrics are decoupled from internal architectural governance.
 
 The following documents are significant and important with respect to foundational governing principles:
