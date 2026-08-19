@@ -17,6 +17,8 @@ External social metrics are decoupled from internal architectural governance.
 The following documents are significant and important with respect to foundational governing principles:
 
 - [Foundational Structural Correctness Across the Ecosystem: Doctrine for Technical‑Debt Prevention and Unified Governance](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/036.md)
+- [Constraint-Driven Software Design in an Era of Computational Abundance: Counteracting Software Bloat Through Explicit Resource Budgeting](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/013.md)
+- [Cognitive Minimalism in Programming: Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/012.md)  
 
 ---
 
