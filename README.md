@@ -14,7 +14,7 @@ This repository operates under a custodial [stewardship model](https://github.co
 All work _**must**_ strictly adhere to the defined [standards frameworks](https://github.com/WilliamMurray-research/2026-0001-D).  
 External social metrics are decoupled from internal architectural governance.
 
-The following documents are significant and important with respect to governing principles:
+The following documents are significant and important with respect to foundational governing principles:
 
 - [Foundational Structural Correctness Across the Ecosystem: Doctrine for Technical‑Debt Prevention and Unified Governance](https://github.com/WilliamMurray-research/2026-0003-D/blob/main/ppr/036.md)
 
