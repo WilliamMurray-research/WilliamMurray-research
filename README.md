@@ -24,7 +24,7 @@ The following documents are significant and important with respect to foundation
 
 <div align="center">
 
-**Contributions turned off**
+<h1>Contributions turned off**</h1>
 
 </div>
 
